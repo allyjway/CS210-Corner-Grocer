@@ -1,12 +1,12 @@
-CS210-Corner-Grocer
+#CS210-Corner-Grocer
 C++ and Python item-tracking for "Corner Grocer" Programming languages class. 
 
 
-Project Summary
+#Project Summary
 
 This project is a grocery item-tracking program for Corner Grocer. The program reads a list of items purchased during the day and counts how many times each item appears. It lets the user search for an item, view all item frequencies, and see a simple text-based histogram. This helps the store understand which items are bought most often.
 
-Reflection
+#Reflection
 
 I think I did well keeping the program organized and easy to follow. The menu is simple, and the code is separated into functions so each part has a clear purpose.
 
